@@ -1,0 +1,12 @@
+torch==2.2.0
+torchvision==0.17.0
+facenet-pytorch==2.6.0
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart==0.0.6
+aiofiles==23.1.0
+sqlalchemy==2.0.22
+numpy==1.26.4
+pillow==10.2.0
+python-dotenv==1.0.0
+scipy==1.11.3
